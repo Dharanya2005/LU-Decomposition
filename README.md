@@ -46,8 +46,9 @@ print(solution)
 
 
 ## Output:
-
+i)
 ![Screenshot 2023-11-29 184908](https://github.com/Dharanya2005/LU-Decomposition/assets/145742468/9e5022c6-271b-4dee-8363-c31f02006455)
+ii)
 ![Screenshot 2023-11-29 184959](https://github.com/Dharanya2005/LU-Decomposition/assets/145742468/c51d8b3e-c076-40f5-b155-56ba31a3577d)
 
 
